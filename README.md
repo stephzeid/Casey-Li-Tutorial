@@ -7,4 +7,6 @@ My name is Stephanie and I'm taking up Web development as my new project for the
 
 Any help and suggestions would be great!
 
-I am taking a Ruby on Rails course with Casey Li ( http://www.caseyli.com/tutorails ), I will also be completing all my assignments through github! XD
+I am currently taking a Ruby on Rails course with Casey Li ( http://www.caseyli.com/tutorails ) and I took an intro to creating my first website with Janac Meena.
+
+
